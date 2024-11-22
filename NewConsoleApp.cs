@@ -12,11 +12,10 @@ namespace ConsoleApp
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello world 2");
-
-        }
-        static void Add()
-        {
-            Console.WriteLine("Add");
+            for (int i=0;i<10;i++)
+            {
+                Console.WriteLine("Salom - " +i);
+            }
         }
     }
 }
