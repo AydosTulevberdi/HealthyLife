@@ -10,12 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
-            Hello();
-        }
-        static void Hello ()
-        {
-            Console.Write("Salomlar sizga ey ahli ilm :)");
+            Console.WriteLine("Hello worl");
         }
     }
 }
