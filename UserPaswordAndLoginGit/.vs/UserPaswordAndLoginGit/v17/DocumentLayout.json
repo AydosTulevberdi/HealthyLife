@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\.NET C#\\1Project\\HealthyLife\\UserPaswordAndLoginGit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\.NET C#\\1Project\\HealthyLife\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810D8F96-7FB1-431E-A0B1-5F2C168ACDC2}|UserPaswordAndLoginGit\\UserPaswordAndLoginGit.csproj|z:\\.net c#\\1project\\healthylife\\userpaswordandlogingit\\userpaswordandlogingit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810D8F96-7FB1-431E-A0B1-5F2C168ACDC2}|UserPaswordAndLoginGit\\UserPaswordAndLoginGit.csproj|solutionrelative:userpaswordandlogingit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\.NET C#\\1Project\\HealthyLife\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Program.cs",
+              "ToolTip": "Z:\\.NET C#\\1Project\\HealthyLife\\Program.cs",
+              "RelativeToolTip": "..\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:51:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\.NET C#\\1Project\\HealthyLife\\UserPaswordAndLoginGit\\UserPaswordAndLoginGit\\Program.cs",
+              "RelativeDocumentMoniker": "UserPaswordAndLoginGit\\Program.cs",
+              "ToolTip": "Z:\\.NET C#\\1Project\\HealthyLife\\UserPaswordAndLoginGit\\UserPaswordAndLoginGit\\Program.cs",
+              "RelativeToolTip": "UserPaswordAndLoginGit\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:58:32.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

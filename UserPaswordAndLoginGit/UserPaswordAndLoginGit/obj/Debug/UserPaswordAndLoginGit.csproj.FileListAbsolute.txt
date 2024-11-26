@@ -1,0 +1,7 @@
+Z:\.NET C#\1Project\HealthyLife\UserPaswordAndLoginGit\UserPaswordAndLoginGit\bin\Debug\UserPaswordAndLoginGit.exe.config
+Z:\.NET C#\1Project\HealthyLife\UserPaswordAndLoginGit\UserPaswordAndLoginGit\bin\Debug\UserPaswordAndLoginGit.exe
+Z:\.NET C#\1Project\HealthyLife\UserPaswordAndLoginGit\UserPaswordAndLoginGit\bin\Debug\UserPaswordAndLoginGit.pdb
+Z:\.NET C#\1Project\HealthyLife\UserPaswordAndLoginGit\UserPaswordAndLoginGit\obj\Debug\UserPaswordAndLoginGit.csproj.AssemblyReference.cache
+Z:\.NET C#\1Project\HealthyLife\UserPaswordAndLoginGit\UserPaswordAndLoginGit\obj\Debug\UserPaswordAndLoginGit.csproj.CoreCompileInputs.cache
+Z:\.NET C#\1Project\HealthyLife\UserPaswordAndLoginGit\UserPaswordAndLoginGit\obj\Debug\UserPaswordAndLoginGit.exe
+Z:\.NET C#\1Project\HealthyLife\UserPaswordAndLoginGit\UserPaswordAndLoginGit\obj\Debug\UserPaswordAndLoginGit.pdb
